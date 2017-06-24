@@ -5,5 +5,6 @@
 </head>
 <body>
     <p>Login page</p>
+    <p>${user.nickname}</p>
 </body>
 </html>
